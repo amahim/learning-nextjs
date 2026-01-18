@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div>
+    <div className="">
       <h1>Welcome to the Next.js App</h1>
     </div>
   );
